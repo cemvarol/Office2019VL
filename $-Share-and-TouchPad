@@ -1,0 +1,5 @@
+Add $ Share to windows 10
+cmd /c reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\system /v LocalAccountTokenFilterPolicy /t REG_DWORD /d 1 /f
+
+Toshiba Mouse touchpad-like scrolling 
+cmd /c reg add HKCU\SOFTWARE\Alps\Apoint /v InvertScrollFlag /t REG_DWORD /d 0 /f
