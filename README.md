@@ -6,5 +6,5 @@ Download the files, and run the command below, depending on your configuration s
 
 SETUP /download configuration-Office2019Enterprise.xml
 
-setup /customize configuration-Office2019Enterprise.xml
+setup /configure configuration-Office2019Enterprise.xml
 
