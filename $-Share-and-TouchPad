@@ -3,3 +3,7 @@ cmd /c reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\system /v
 
 Toshiba Mouse touchpad-like scrolling 
 cmd /c reg add HKCU\SOFTWARE\Alps\Apoint /v InvertScrollFlag /t REG_DWORD /d 0 /f
+
+
+
+https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
