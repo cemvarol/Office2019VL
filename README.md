@@ -17,9 +17,13 @@ SETUP /customize [path to configuration file]
 SETUP /help
 
  **/download** Downloads files to create an Office installation source
+ 
  **/configure** Adds, removes, or configures an Office installation
+ 
  **/packager** Produces an Office App-V package from an Office installation source
+
  **/customize** Applies settings for Office applications
+
  **/help** Displays this message
 
 
