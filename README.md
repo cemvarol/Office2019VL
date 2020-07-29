@@ -8,7 +8,7 @@ SETUP /download configuration-Office2019Enterprise.xml
 
 setup /configure configuration-Office2019Enterprise.xml
 
-
+-------------------------------------------------------------------------
 
 SETUP /download [path to configuration file]
 
@@ -20,7 +20,7 @@ SETUP /customize [path to configuration file]
 
 SETUP /help
 
-
+--------------------------------------------------------------------------
 
  **/download** Downloads files to create an Office installation source
  
